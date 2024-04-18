@@ -10,7 +10,7 @@ from random import randint
 
 bot = commands.Bot(command_prefix='!!', intents=discord.Intents.all())
 
-TOKEN = 'MTEwNTM3MjUzMDI3OTIwNzAwMg.GW8qOl.7jbYt2Qjqo7X4A_559Fn-bObMK8gjPpkZHl7hY'
+TOKEN = '
 
 
 # ON BOT READY
